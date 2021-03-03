@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d6fdd385f23f4664ca71d967956b45ab
+timeCreated: 1495438340
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Blah blah bang
+  fontNames:
+  - Blah blah bang
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
